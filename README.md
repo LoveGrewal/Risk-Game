@@ -8,5 +8,5 @@ Technologies used : Java, JavaScript, JSP, Spring
 ```
 
 ```
-For more information : [More details :](https://en.wikipedia.org/wiki/Risk_(game))
+[https://en.wikipedia.org/wiki/Risk_(game)]
 ```
